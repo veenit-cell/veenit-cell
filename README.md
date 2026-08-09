@@ -12,13 +12,24 @@
 <img src="https://img.shields.io/github/followers/veenit-cell?label=Followers&style=social" alt="followers" />
 </p>
 
+<table>
+<tr>
+<td width="42%"><img src="./profile-readme-assets/portrait.svg" width="100%" alt="portrait terminal" /></td>
+<td width="58%"><img src="./profile-readme-assets/wordmark.svg" width="100%" alt="veenit wordmark terminal" /></td>
+</tr>
+</table>
+
+<p align="center">
+<img src="./profile-readme-assets/contributions.svg" width="100%" alt="contributions terminal" />
+</p>
+
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **Dulhan** — a privacy-preserving cross-institution fraud detection platform using HMAC anonymization, Neo4j, and graph ML
 - 🌱 I'm currently learning **advanced RAG architectures, agentic AI (LangChain/CrewAI), and applied graph ML**
 - 👯 I'm looking to collaborate on **AI/ML, fintech fraud detection, and data science projects**
 - 💬 Ask me about **AI/ML engineering, RAG pipelines, fraud detection systems, and data-driven product building**
-- 📫 How to reach me: **[add your email or LinkedIn link]**
+- 📫 How to reach me: **veenitramteke@gmail.com**
 - ⚡ Fun fact: I balance building fraud-detection graph models by day with Toastmasters speeches and drama club by night
 
 ## 🛠️ Tech Stack
