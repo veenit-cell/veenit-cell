@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Dulhan/SATARK** — a privacy-preserving cross-institution fraud detection platform using HMAC anonymization, Neo4j, and graph ML
+- 🔭 I'm currently working on **Dulhan** — a privacy-preserving cross-institution fraud detection platform using HMAC anonymization, Neo4j, and graph ML
 - 🌱 I'm currently learning **advanced RAG architectures, agentic AI (LangChain/CrewAI), and applied graph ML**
 - 👯 I'm looking to collaborate on **AI/ML, fintech fraud detection, and data science projects**
 - 💬 Ask me about **AI/ML engineering, RAG pipelines, fraud detection systems, and data-driven product building**
@@ -35,7 +35,7 @@
 
 - **[Prashikshan](#)** — AI-driven internship allocation platform (LangChain, RAG, CrewAI, React/Node.js) — 60% efficiency improvement, 70% manual effort reduction; published in a 2026 data science journal
 - **[NeuroShield / FraudShield](#)** — Mule account detection benchmarked against RBI MuleHunter.AI, AUC ~0.965
-- **[Dulhan ](#)** — Cross-institution fraud detection with HMAC anonymization + graph ML, full local demo with FastAPI, Celery, Redis, 3D force-directed frontend
+- **[Dulhan](#)** — Cross-institution fraud detection with HMAC anonymization + graph ML, full local demo with FastAPI, Celery, Redis, 3D force-directed frontend
 - **[ATS Analyzer](#)** — Resume-to-job matching tool using Python, Streamlit, Sentence-Transformers, FAISS, and Gemini API
 - **[Colorectal Cancer Detection](#)** — Gut microbiome DNA classifier using k-mer extraction and ML classifiers, supervised research project
 
