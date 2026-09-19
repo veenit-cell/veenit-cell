@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Veenit — building useful systems</title>
+  <desc id="desc">Evidence, context, and constraints connect through human judgment to useful tools, with a feedback loop for learning.</desc>
+  <rect width="1200" height="460" rx="20" fill="#EDF3F8"/>
+  <g font-family="Trebuchet MS, Arial, sans-serif" fill="#19344D">
+    <text x="56" y="94" font-size="60" font-weight="700">Veenit</text>
+    <text x="58" y="143" font-size="27">Building useful systems.</text>
+    <text x="58" y="191" font-size="21">AI, full-stack products,</text>
+    <text x="58" y="222" font-size="21">and the decisions between them.</text>
+  </g>
+  <g fill="none" stroke-width="3">
+    <path d="M650 99 C732 99 718 226 790 226" stroke="#2864A0"/>
+    <path d="M650 226 H790" stroke="#18766E"/>
+    <path d="M650 353 C732 353 718 226 790 226" stroke="#80577C"/>
+    <path d="M830 226 H1014" stroke="#19344D"/>
+    <path d="M1030 250 V398 H810 V250" stroke="#18766E" stroke-dasharray="6 7"/>
+  </g>
+  <g font-family="Trebuchet MS, Arial, sans-serif" font-size="22" font-weight="700">
+    <rect x="485" y="69" width="165" height="60" rx="30" fill="#2864A0"/>
+    <text x="567" y="107" text-anchor="middle" fill="#FFFFFF">Evidence</text>
+    <rect x="485" y="196" width="165" height="60" rx="30" fill="#18766E"/>
+    <text x="567" y="234" text-anchor="middle" fill="#FFFFFF">Context</text>
+    <rect x="485" y="323" width="165" height="60" rx="30" fill="#80577C"/>
+    <text x="567" y="361" text-anchor="middle" fill="#FFFFFF">Constraints</text>
+  </g>
+  <circle cx="810" cy="226" r="20" fill="#EDF3F8" stroke="#19344D" stroke-width="4"/>
+  <circle cx="810" cy="226" r="7" fill="#19344D"/>
+  <rect x="1010" y="206" width="40" height="40" rx="8" fill="#19344D"/>
+  <path d="m1019 227 7 7 15-17" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <g font-family="Trebuchet MS, Arial, sans-serif" font-size="22" fill="#19344D" text-anchor="middle">
+    <text x="810" y="162">Human</text>
+    <text x="810" y="189">judgment</text>
+    <text x="1030" y="175">Useful tools</text>
+    <text x="920" y="377" fill="#18766E">Learn from use</text>
+  </g>
+</svg>
